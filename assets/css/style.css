@@ -1,0 +1,26 @@
+.sherin{
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+}
+.title{
+    font-family: 'Raleway', sans-serif;
+}
+.subtitle{
+    letter-spacing: 10px;
+}
+#sherin{
+    height: 95vh;
+}
+.Text-about{
+    text-indent: 50px;
+    text-align: justify;
+}
+.card-img-top{
+    height: 200px;
+    object-fit: cover;
+}
+.card-text{
+    text-indent: 20px;
+    text-align: justify;
+}
